@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "en",
-	"nickNameBot": "SHIJUKA 🫠❤️‍🩹",
-	"prefix": "/",
+	"nickNameBot": "𝐒𝐭𝐫𝐚𝐰𝐛𝐞𝐫𝐫𝐲",
+	"prefix": "+",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["61554007689184"],
+	"adminBot": ["61579149158144"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": []
